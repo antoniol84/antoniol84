@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "r3MsotNUiJeDDoWSdWvEvQzdvKY46VnUdr"
+      }
+    }
+  ],
+  "payId": "antoniol$antoniol84.github.io"
+}
